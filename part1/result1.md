@@ -3,6 +3,7 @@
 
 # Код xml
 ## [Ссылка на kodaktor](https://kodaktor.ru/?!=xml_50a24)
+
 <?xml version="1.0" encoding="utf-8" ?> 
 <!DOCTYPE таблица PUBLIC "kodaktor.ru" 
 "http://kodaktor.ru/x/dtd_8c193"> 
@@ -28,6 +29,7 @@
 
 # Код DTD
 ## [Ссылка на kodaktor](https://kodaktor.ru/?!=dtd_8c193)
+
 <?xml version="1.0" encoding="utf-8" ?> 
 <!ELEMENT таблица (студент+)>
 <!ELEMENT студент (отметка*)>
