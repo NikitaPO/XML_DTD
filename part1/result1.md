@@ -2,9 +2,9 @@
 ![](img1.png "Результат выполнения")
 
 # Код xml
-## [Ссылка на kodaktor](https://kodaktor.ru/?!=xml_50a24)
-[](xml1.xml)
+## [Ссылка на kodaktor с xml](https://kodaktor.ru/?!=xml_50a24)
+[файл xml1.xml](xml1.xml)
 
 # Код DTD
-## [Ссылка на kodaktor](https://kodaktor.ru/?!=dtd_8c193)
-[](dtd1.xml)
+## [Ссылка на kodaktor с dtd](https://kodaktor.ru/?!=dtd_8c193)
+[файл dtd1.xml](dtd1.xml)
