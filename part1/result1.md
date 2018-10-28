@@ -7,4 +7,4 @@
 
 # Код DTD
 ## [Ссылка на kodaktor с dtd](https://kodaktor.ru/?!=dtd_8c193)
-[файл dtd1.xml](https://github.com/NikitaPO/js1dtd/blob/master/part1/DTD1.xml
+[файл dtd1.xml](https://github.com/NikitaPO/js1dtd/blob/master/part1/DTD1.xml)
